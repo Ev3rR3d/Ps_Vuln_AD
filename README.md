@@ -1,4 +1,5 @@
 # Ps_Vuln_AD
-Vulnerable AD
+
+Create Simple Vulns in a deployed Active Directory
 
 A Simplification of: [Vulnerable-AD](https://github.com/safebuffer/vulnerable-AD) Project
